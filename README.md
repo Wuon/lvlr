@@ -1,6 +1,9 @@
 # lvlr
 ICS4U Assignment One Solution
 
+Challenge:
+https://www.reddit.com/r/dailyprogrammer/comments/5jxeal/20161223_challenge_296_hard_flood_fill_puzzle_game/
+
 Challenge 1:
 
 1 2 2 1
@@ -46,3 +49,5 @@ Challenge 5:
 1 4 3 4
 
 http://entibo.fr/lvlr/#4414515135131434
+
+
